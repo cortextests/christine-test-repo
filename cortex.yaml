@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: Test Service All Components
+  x-cortex-tag: cb-test-service-all-components
+  x-cortex-git:
+    github:
+      repository: cortextests/christine-test-repo
+  x-cortex-owners:
+  - email: christine.byun@cortex.io
+    type: EMAIL
+  x-cortex-service-groups:
+  - billing
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.1.0
+    cortex-generated-timestamp: 2026-10-06T18:10:42.456261007

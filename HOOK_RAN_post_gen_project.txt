@@ -1,0 +1,6 @@
+hook=post_gen_project
+include_api_service=y
+include_cli=y
+include_lambda=y
+removed=
+kept=api_service,cli,common,lambda
